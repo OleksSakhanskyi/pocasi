@@ -1,0 +1,29 @@
+{
+    "name": "Pocasi",         
+    "short_name": "Pocasi",             
+  
+    "icons": [
+      {
+        "src": "weather.jpg",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "weather.jpg",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+  
+    "start_url": "/index.html",          
+  
+    "display": "standalone",             
+  
+    "background_color": "#FFFFFF",       
+    "theme_color": "#0000FF",            
+    "description": "Toto je ukázková PWA aplikace.", 
+    "orientation": "portrait",           
+    "scope": "/",                        
+    "lang": "cs-CZ",                     
+    "dir": "ltr"
+  }
